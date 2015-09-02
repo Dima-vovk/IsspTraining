@@ -1,0 +1,2 @@
+# IsspTraining
+Training tasks
